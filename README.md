@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mingzhe Li!
 
-- 🔭 I’m a second-year B.Sc. student in Research Center for Social Computing and Information Retrieval (SCIR), at **Harbin Institute of Technology** (HIT, China).
+- 🔭 I’m a third-year B.Sc. student in Research Center for Social Computing and Information Retrieval (SCIR), at **Harbin Institute of Technology** (HIT, China).
 - 🌱 My research interests include emotional dialogue systems, textual sentiment analysis and **natural language processing**.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me:
