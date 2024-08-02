@@ -4,7 +4,7 @@
 - 🌱 My research interests include emotional dialogue systems, textual sentiment analysis and **natural language processing**.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me:
-  - ✉️ Email: mubuky@foxmail.com
+  - ✉️ Email: mzli@ir.hit.edu.cn
 - 😄 Pronouns: He/Him
 
 ## Education
