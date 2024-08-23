@@ -18,11 +18,7 @@
 
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Mubuky&show_icons=true&theme=vision-friendly-dark" alt="Mingzhe Li's GitHub Stats" />
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITjunle&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Langs" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubuky&theme=dark" alt="Mubuky's GitHub Streak" />
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubuky&theme=dark" alt="Mingzhe Li's GitHub Streak" />
 </div>
 
 
