@@ -1,12 +1,9 @@
 ## Hi there 👋, I'm Mingzhe Li!
 
-- 🔭 I’m a third-year B.Sc. student in Research Center for Social Computing and Information Retrieval (SCIR), at **Harbin Institute of Technology** (HIT, China).
-- 🌱 I am broadly interested in **natural language processing** and machine learning. My current research focuses on synthetic data generation and self-improvement of large language models (LLMs).
-- 💬 I'm open to collaboration and discussions. Please feel free to contact me and explore possibilities together.
+- 🔭 I am a fourth-year B.Sc. student in the Research Center for Social Computing and Interactive Robotics (SCIR) at Harbin Institute of Technology (HIT, China), currently interning at Shanghai Innovation Institute.
+- 🌱 I am broadly interested in **Natural Language Processing** and **Machine Learning**. My current research focuses on **Reinforcement Learning**, **Self-Evolving Agent** and **Synthetic Data Generation**. I am particularly interested in leveraging reinforcement learning and its derivative techniques to stimulate the self-evolving capabilities of LLM-based agents in real-world environments.
+- 💬 If you are interested in any form of academic collaboration, please feel free to email me at mzli@ir.hit.edu.cn.
 
-- 📫 How to reach me:
-  - ✉️ Email: mzli@ir.hit.edu.cn
-- 😄 Pronouns: He/Him
 
 ## Education
 
