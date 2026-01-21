@@ -7,12 +7,8 @@
 
 ## Education
 
-- Aug 2022 - Jul 2026 (Expected). B.Sc. student in Faculty of Computing, [Harbin Institute of Technology](http://www.hit.edu.cn/).
-
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&color=70A5FD&background=3982C800&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+my+homepage" alt="Typing SVG" /></a>
-</div>
+- Aug 2022 - Jul 2026. B.Sc. student in Faculty of Computing, [Harbin Institute of Technology](https://en.hit.edu.cn/).
+- Aug 2026 - Jul 2031 (Expected). Ph.D. student in College of Computer Science and Artificial Intelligence, [Fudan University](https://www.fudan.edu.cn/en/).
 
 <div align="center">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Mubuky&show_icons=true&theme=vision-friendly-dark" alt="Mingzhe Li's GitHub Stats" />
