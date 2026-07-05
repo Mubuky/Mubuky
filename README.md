@@ -11,7 +11,6 @@
 - Sep 2026 - Jul 2031 (Expected). Ph.D. student in College of Computer Science and Artificial Intelligence, [Fudan University](https://www.fudan.edu.cn/en/).
 
 <div align="center">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Mubuky&show_icons=true&theme=vision-friendly-dark" alt="Mingzhe Li's GitHub Stats" />
     <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubuky&theme=dark" alt="Mingzhe Li's GitHub Streak" />
 </div>
 
